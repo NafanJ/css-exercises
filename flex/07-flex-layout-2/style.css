@@ -17,7 +17,7 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  width: 150px;
   background: royalblue;
   box-sizing: border-box;
 }
@@ -69,7 +69,7 @@ li{
 }
 
 .container{
-  justify-content: center;
+  justify-content: space-evenly;
   padding: 32px;
   display: flex;
   flex-wrap: wrap;
